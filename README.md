@@ -2,19 +2,20 @@
 <h3 align="center">💡 Computer Engineering Student | 🐍 Python & Django Enthusiast | 🐧 Linux Explorer</h3>
 
 <p align="center">
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" alt="cool coding gif">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" alt="cool coding gif">
 </p>
 
 ---
 
-🎓 I'm currently studying Computer Engineering and diving deep into the backend world with **Python** and **Django**.  
-⚙️ I'm also exploring **Linux**, learning how servers work, and playing around with tools like **MySQL**, **Nginx**, and **bash scripting**.  
-🌱 When I have to, I get my hands dirty with **HTML/CSS** – but backend is my happy place 😄  
-🛠️ I enjoy solving problems, building web apps, and learning by doing.
+🎓 I'm a Computer Engineering student with a passion for solving real-world problems through code.  
+🔧 I mostly work with **Python** and **Django**, building backend systems and web applications that *actually do stuff*.  
+🐧 I'm exploring the Linux world, managing servers, and tinkering with things like **Nginx**, **MySQL**, and **bash scripting**.  
+🌐 I occasionally touch **HTML/CSS** when I have to — but let's be real, I’m a backend-first kind of dev 😄  
+💡 I'm always learning, experimenting, and trying to make my code cleaner, smarter, and more efficient.
 
 ---
 
-### 🧰 Languages & Tools
+### 🧰 Languages & Tools I Use
 <p align="left">
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
@@ -28,4 +29,22 @@
 
 ---
 
-📫 Feel free to reach out if you're into Python, backend dev, or just want to geek out over cool tech!
+### 📫 Let's Connect  
+Feel free to reach out if:
+- You're into backend development 🧠
+- You love Python or Django 🐍
+- You wanna collaborate on something cool ⚙️
+- Or just wanna talk tech 😄
+
+<!-- Example buttons for contact -->
+<!--
+<p align="left">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/yourTelegramHandle"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yourLinkedInUsername"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+-->
+
+---
+
+✨ Thanks for stopping by!
