@@ -2,7 +2,7 @@
 <h3 align="center">💡 Computer Engineering Student | 🐍 Python & Django Enthusiast | 🐧 Linux Explorer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="400" alt="cool-coding-gif">
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" alt="cool coding gif">
 </p>
 
 ---
