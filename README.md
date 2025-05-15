@@ -38,9 +38,8 @@ I’m always excited to connect with fellow developers and tech enthusiasts! Fee
 - Or just want to talk tech 😄  
 
 <p align="center">
-  <a href="mailto:your.email@example.com" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> &nbsp;
   <a href="https://t.me/SinaJafari01" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a> &nbsp;
-  <a href="https://linkedin.com/in/yourLinkedInUsername" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+ 
 </p>
 
 ---
